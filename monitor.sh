@@ -1,13 +1,13 @@
 #!/bin/bash
 
 # Node name, e.g. "Cosmos"
-NODE_NAME=""
+NODE_NAME="Evmos"
 # File name for saving parameters, e.g. "cosmos.log"
-LOG_FILE=""
+LOG_FILE="evmos.log"
 # Your node RPC address, e.g. "http://127.0.0.1:26657"
 NODE_RPC=""
 # Trusted node RPC address, e.g. "https://rpc.cosmos.network:26657"
-SIDE_RPC=""
+SIDE_RPC="http://arsiamons.rpc.evmos.org:26657"
 # Telegram bot API
 TG_BOT=""
 # Telegram chat ID
